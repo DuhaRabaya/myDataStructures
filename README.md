@@ -1,4 +1,4 @@
 myArrayList class 
-myLinkedList class 
+myLinkedList class
 myStack class
 myQueue class
